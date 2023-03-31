@@ -18,3 +18,5 @@ out of the cup. Since time is calculated in every iteration you can easily cance
 knob to its left position (0 time). 
 
 When the program is finished the timer beeps for 3 times and the LED goes back to green. 
+
+There is a [blog article in German](https://koenig-haunstetten.de/2021/02/03/its-tea-time/) that described the first prototype.

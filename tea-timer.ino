@@ -15,7 +15,7 @@ const int LEDrot=10;
 const int Buzzer=9;
 
 // Ein paar Winkeleinstellungen für den Arm
-const int Beuteloben=100; 
+const int Beuteloben=92; 
 const int Beutelunten=35;
 const int Beutelmitte=80;
 
